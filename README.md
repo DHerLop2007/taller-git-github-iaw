@@ -11,4 +11,7 @@ Se añade otra nueva linea
 
 *texto en cursiva*
 ### h3
+```bash
+sudo pacman ls -la
+```
 #### h4
