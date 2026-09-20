@@ -7,7 +7,7 @@ Se añade otra nueva linea
 
 # Esto es un encabezado h1
 
-Enlace a la pagina de github[1]
+Enlace a la pagina de [github][1]
 
 [1]: https://github.com
 
