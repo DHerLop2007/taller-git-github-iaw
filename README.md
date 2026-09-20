@@ -13,7 +13,6 @@ Enlace a la pagina de [github][1]
 
 ## h2
 **texto en negrita**  
-
 *texto en cursiva*
 ### h3
 ```bash
