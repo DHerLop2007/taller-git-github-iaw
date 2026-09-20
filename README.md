@@ -20,3 +20,6 @@ Enlace a la pagina de [github][1]
 sudo pacman ls -la
 ```
 #### h4
+Por ejemplo:
+
+![](https://static.wikia.nocookie.net/silly-cat/images/1/19/Thumbs_Up.png/revision/latest/thumbnail/width/360/height/360?cb=20231201204731)
