@@ -12,7 +12,7 @@ Enlace a la pagina de [github][1]
 [1]: https://github.com
 
 ## h2
-**texto en negrita**
+**texto en negrita**  
 
 *texto en cursiva*
 ### h3
